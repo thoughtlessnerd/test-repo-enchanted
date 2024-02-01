@@ -1,6 +1,6 @@
+// Copyright 2024 Abhay
 #include <iostream>
-using namespace std;
-int main(){
-    cout<<"hello world"<<endl;
+int main() {
+    std::cout << "hello world" << std::endl;
     return 0;
 }
