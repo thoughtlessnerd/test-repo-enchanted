@@ -1,17 +1,8 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include <iostream>
 
-int main(){
+int main() {
     int n;
-
-
-
-    
-    cin >> n;
-    cout << "hello world" << endl;
+    std::cin >> n;
+    std::cout << "hello world" << std::endl;
     return 0;
-
-
-
-
 }
