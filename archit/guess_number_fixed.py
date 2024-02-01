@@ -25,4 +25,3 @@ if guess == number:
     )
 else:
     print("Nope. The number I was thinking of was {number}")
-    
