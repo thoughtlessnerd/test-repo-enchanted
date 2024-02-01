@@ -20,8 +20,6 @@ while guesses_made < 6:
         break
 
 if guess == number:
-    print(
-        f"Good job, {name}! You guessed my number in {guesses_made} guesses! But this line is way too long!"
-    )
+    print(f"Good job, {name}! You guessed my number in {guesses_made} guesses! But this line is way too long!")
 else:
     print("Nope. The number I was thinking of was {number}")
